@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.mainService{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.heading_ser{
+    margin-bottom: 50px;
+    color: blue;
+}
+
+.servicemain{
+   
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.text{
+    width: 200px;
+    height: 200px;
+    
+    text-align: center;
+    font-size: 14px;
+    font-weight: 100;
+    color: blue;
+}
+.text p{
+    font-size: 38px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}

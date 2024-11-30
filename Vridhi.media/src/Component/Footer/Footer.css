@@ -1,0 +1,7 @@
+.footer {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    animation: fadeIn 1s ease forwards;
+}
